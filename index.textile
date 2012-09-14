@@ -5,5 +5,5 @@ title: Pat Allan on GitHub
 
 h1. Projects
 
-* "Thinking Sphinx":/ts/en
-* "Riddle":/riddle
+* "Thinking Sphinx":http://pat.github.com/ts/en
+* "Riddle":http://pat.github.com/riddle
